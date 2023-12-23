@@ -9,7 +9,7 @@ module mem(
   data_out
 );
 
-  parameter words = 4096 
+  parameter words = 4096;
   parameter DataWidth = 32;
   parameter AddrWidth = 24;
 
